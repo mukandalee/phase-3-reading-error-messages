@@ -1,3 +1,5 @@
-1 + 1
+add1=1 + 1
+puts add1
 
-1 + "is the loneliest number"
+add2=1 +6
+puts add2
